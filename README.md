@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/JosueNery">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=JosueNery&theme=codeSTACKr&show_icons=true&include_all_commits=true"/>
+  <img  align="left" height="42%" src="https://github-readme-stats.vercel.app/api?username=JosueNery&theme=codeSTACKr&show_icons=true&include_all_commits=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueNery&theme=codeSTACKr&layout-compact&langs_count=16"/></a>
 </div>
 <div style="display: inline_block"><br>
